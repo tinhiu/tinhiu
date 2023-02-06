@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💬 Ask me about ...
-- [![Discord Presence](https://lanyard.cnrad.dev/api/885439540268003338)](https://discord.com/users/885439540268003338)
+
 <!--
 **Myouiii/Myouiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
