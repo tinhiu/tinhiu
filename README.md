@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lhz6y3u5ootzbuxbnkndz4x2ea&cover_image=true&theme=compact&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+-->
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/885439540268003338?theme=light&bg=C1D0B5&animated=false&hideDiscrim=true&borderRadius=35px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/885439540268003338)
